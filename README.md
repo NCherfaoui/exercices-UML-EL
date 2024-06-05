@@ -37,5 +37,5 @@ Si vous souhaitez contribuer à ces exercices en ajoutant de nouveaux scénarios
 
 ## Licence
 
-Ce projet est sous licence MIT.
+Ce projet est sous licence [MIT](https://github.com/NCherfaoui/exercices-UML-EL/blob/main/LICENSE).
 
